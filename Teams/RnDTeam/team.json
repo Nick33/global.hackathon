@@ -1,0 +1,26 @@
+{
+  "teamName": "RnDTeam",
+  "members": [
+    {
+      "name": "Mykola Derzhylo",
+      "twitter": "twitter acct no @",
+      "koding": "koding username (required)",
+      "location": "Lviv, UA"
+      "lead": true
+    },
+    
+    {
+      "name": "Volodymyr Medvid",
+      "twitter": "twitter acct no @",
+      "koding": "",
+      "location": "Lviv, UA"
+    },
+    
+    {
+      "name": "Viktor Sorochak",
+      "twitter": "twitter acct no @",
+      "koding": "koding username (required)",
+      "location": "Lviv, UA"
+    },
+  ]
+}
